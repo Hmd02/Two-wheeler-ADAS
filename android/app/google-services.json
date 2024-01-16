@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "863729529651",
+    "project_id": "b-e-project-u-i-7uwhtn",
+    "storage_bucket": "b-e-project-u-i-7uwhtn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863729529651:android:bd6b72a54fdafab8be8446",
+        "android_client_info": {
+          "package_name": "com.mycompany.beprojectui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863729529651-s3s1n3v4flthc877vajj38d01ikevqk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZrHE3SaqfIkRekPTf0g23TsAJk3QBgkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863729529651-s3s1n3v4flthc877vajj38d01ikevqk5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863729529651-uevk3r2qhdgr6bqhaat380kscktkd1fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.beprojectui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
